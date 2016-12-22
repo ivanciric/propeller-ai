@@ -7,6 +7,8 @@ use GuzzleHttp\Exception\ServerException;
 
 class Propeller
 {
+    use Responder;
+
     /**
      * @var Client
      */
@@ -37,7 +39,7 @@ class Propeller
 
         $propellerResponse = $this->executeRequest($imageByteArray);
 
-        return $propellerResponse;
+        return $this->formatResponse($propellerResponse);
     }
 
     /**
@@ -79,7 +81,6 @@ class Propeller
 
             return $e->getMessage();
         }
-
 
         return $response;
     }
