@@ -1,2 +1,2 @@
 # propeller-ai
-PHP Library for PropellerAi API
+PHP Library for PropellerAi image recognition API
