@@ -1,0 +1,29 @@
+{
+    "name": "ivanciric/propeller-ai",
+    "type": "library",
+    "description": "PHP Library for PropellerAi image recognition API",
+    "keywords": [
+        "Propeller",
+        "Deep learning",
+        "Image recognition",
+        "AI"
+    ],
+    "homepage": "https://gitlab.com/ivanciric/propeller-ai",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Ciric",
+            "email": "ivan.it.office@gmail.com",
+            "homepage": "http://yoshi.tech",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+      "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hamato\\PropellerAi\\": "src"
+        }
+    }
+}
