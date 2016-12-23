@@ -3,9 +3,9 @@
     "type": "library",
     "description": "PHP Library for PropellerAi image recognition API",
     "keywords": [
-        "Propeller",
-        "Deep learning",
-        "Image recognition",
+        "PropellerAi",
+        "DeepLearning",
+        "ImageRecognition",
         "AI"
     ],
     "homepage": "https://gitlab.com/ivanciric/propeller-ai",
