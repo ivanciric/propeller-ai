@@ -28,9 +28,9 @@ See example.php file.
 
 Library will return an array of top 5 classification values for a given image.
 
-You can use the classifications for image auto-tagging.
+You can use the classifications for image **auto-tagging**.
 
-Example: set up a cron job to go trough your image library and insert tags for each one in the db.
+**Example:** set up a cron job to go trough your image library and insert tags for each one in the db.
 
 ```php
 Array ( 
