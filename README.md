@@ -17,7 +17,9 @@ composer require ivanciric/propeller-ai ~1.0 --with-dependencies
 Or just clone it and test it as a stand-alone lib:
 
 ``` bash
-git clone https://github.com/ivanciric/propeller-ai.git
+$ git clone https://github.com/ivanciric/propeller-ai.git
+$ cd propeller-ai
+$ composer install
 ```
 
 ## Usage
