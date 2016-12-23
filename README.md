@@ -1,5 +1,5 @@
 # propeller-ai
-PHP Library for the[PropellerAi](http://propeller.rocks/) image recognition API.
+PHP Library for the [PropellerAi](http://propeller.rocks/) image recognition API.
 
 ## Installation
 In your project composer.json file add the following in the require array:
