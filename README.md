@@ -11,7 +11,7 @@ In your project composer.json file add the following in the require array:
 Or add it trough the command line from your project root:
 
 ``` bash
-composer require ivanciric/propeller-ai ~1.0 --with-dependencies
+composer require ivanciric/propeller-ai ~1.0
 ```
 
 Or just clone it and test it as a stand-alone lib:
