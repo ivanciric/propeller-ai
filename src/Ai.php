@@ -20,7 +20,7 @@ class Ai
     /**
      * @var string
      */
-    private $baseApi = 'http://35.190.159.248:8000/api/';
+    private $baseApi = 'http://35.190.159.248:8001/api/';
 
     /**
      * @var string
